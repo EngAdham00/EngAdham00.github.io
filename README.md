@@ -1,14 +1,22 @@
-# Personal Portfolio Website
+# Adham Elsayed Portfolio Website
 
-This is my personal portfolio website built with HTML, CSS, and JavaScript.
-
-## Sections
-- About
-- Skills
-- Experience
-- Projects
-- Awards
-- Contact
+Personal portfolio website for AI, Computer Vision, and Edge AI projects.
 
 ## Live Demo
-https://EngAdham00.github.io
+
+https://engadham00.github.io/
+
+## Sections
+
+- About
+- Skills
+- Projects
+- Experience
+- Certifications
+- Contact
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
